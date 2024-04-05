@@ -111,8 +111,8 @@ img {
         width: 40%;
     }
     img {
-        width: 350px;
-        height: 404px;
+        width: 300px;
+        height: 350px;
         right: 55px;
     }
     p{
@@ -175,6 +175,7 @@ img {
     }
 
     img {
+        position: static;
         display: block;
         margin: auto;
         width: 245px;
@@ -209,7 +210,7 @@ img {
         font-size: 26px;
     }
     img {
-        width: 215px;
+        width: 245px;
         height: 305px;
     }
 }
@@ -222,7 +223,7 @@ img {
         font-size: 22px;
     }
     img {
-        width: 215px;
+        width: 245px;
         height: 305px;
     }
 }
